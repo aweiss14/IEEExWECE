@@ -1,0 +1,11 @@
+Hello all!
+
+Welcome to our Git Tutorial! 
+
+Now that you are here, try to:
+1. Add your name to MODIFY_HERE.c
+2. PUSH your modification
+3. Add a new file
+4. PUSH your modification
+5. PULL new modifications
+
