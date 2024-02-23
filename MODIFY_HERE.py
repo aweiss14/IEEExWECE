@@ -4,4 +4,4 @@ def hello():
     
     # TO DO: Add your name / a message here!
 
-hello()
+    print("Hello World! Carla is learning Git :) ")
