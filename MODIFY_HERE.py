@@ -1,6 +1,6 @@
 def hello():
-    print("Hello World!")
-    print("Nicole and Aliyah are teaching Git!")
+    print("hello it is Jaylen Callender")
+
     
     # TO DO: Add your name / a message here!
 
